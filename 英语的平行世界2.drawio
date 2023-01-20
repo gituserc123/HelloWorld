@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-20T01:42:53.925Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="PFlGn-sqzNTRVzGAfp7-" version="20.8.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-20T01:43:21.231Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ODjLFAgaBBUHKC5Kp0_z" version="20.8.7" type="github">
   <diagram id="1wD_X5J8tofuM-vasSyo" name="第 1 页">
     <mxGraphModel dx="1434" dy="1933" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -575,7 +575,7 @@
             <mxPoint x="369" y="-140" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="hqNwibnlh16U7bYU6Boq-160" value="动词" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="hqNwibnlh16U7bYU6Boq-160" value="动词" style="whiteSpace=wrap;html=1;rounded=1;arcSize=50;align=center;verticalAlign=middle;strokeWidth=1;autosize=1;spacing=4;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;entityRelationEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;,&quot;segment&quot;:10,&quot;curved&quot;:1,&quot;sourcePerimeterSpacing&quot;:0,&quot;targetPerimeterSpacing&quot;:0};fillColor=#4789e6;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="220" y="-500" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hqNwibnlh16U7bYU6Boq-161" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hqNwibnlh16U7bYU6Boq-160" target="hqNwibnlh16U7bYU6Boq-162">
@@ -737,7 +737,7 @@
         <mxCell id="hqNwibnlh16U7bYU6Boq-242" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="735" y="-520" width="20" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="hqNwibnlh16U7bYU6Boq-244" value="及物动词/不及物动词" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="hqNwibnlh16U7bYU6Boq-244" value="及物动词/不及物动词" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=1;fillColor=#A9C4EB;" vertex="1" parent="1">
           <mxGeometry x="755" y="-507.5" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
