@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T09:37:36.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="aDI3fGikFc1WxQWxg25Q" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-22T09:40:22.127Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RcauUHPnb9Mn7qYGgxs6" version="20.8.10" type="github">
   <diagram id="1wD_X5J8tofuM-vasSyo" name="第 1 页">
     <mxGraphModel dx="1434" dy="4271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1312,11 +1312,29 @@
             <mxPoint x="515" y="-1155" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bzsjij8QIIZRabs9Qi1y-52" value="一人得到,鸡犬升天" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+        <mxCell id="Bzsjij8QIIZRabs9Qi1y-52" value="一人得到,鸡犬升天" style="text;strokeColor=#82b366;fillColor=#d5e8d4;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="549" y="-1109" width="118" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bzsjij8QIIZRabs9Qi1y-55" value="从句同意用陈述句语序" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="549" y="-1230" width="170" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bzsjij8QIIZRabs9Qi1y-56" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bzsjij8QIIZRabs9Qi1y-52" target="Bzsjij8QIIZRabs9Qi1y-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="760" y="-1050" as="sourcePoint" />
+            <mxPoint x="810" y="-1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bzsjij8QIIZRabs9Qi1y-57" value="从句中:引导词+(...a.+n/a./ad...) +S+V+新的补充&lt;br&gt;则引导词和新的补充一起提前" style="text;strokeColor=#82b366;fillColor=#d5e8d4;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="740" y="-1109" width="320" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Bzsjij8QIIZRabs9Qi1y-58" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="Bzsjij8QIIZRabs9Qi1y-59" source="Bzsjij8QIIZRabs9Qi1y-57">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1027" y="-1090" as="sourcePoint" />
+            <mxPoint x="1170" y="-1101" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Bzsjij8QIIZRabs9Qi1y-59" value="I don`t know which (english book) he will choose" style="text;strokeColor=#82b366;fillColor=#d5e8d4;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="-1109" width="310" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
