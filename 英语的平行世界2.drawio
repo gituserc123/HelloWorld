@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-22T09:30:51.867Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="wi1tvkWo_ByHitt7-IC0" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-22T09:37:36.210Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="aDI3fGikFc1WxQWxg25Q" version="20.8.10" type="github">
   <diagram id="1wD_X5J8tofuM-vasSyo" name="第 1 页">
     <mxGraphModel dx="1434" dy="4271" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1270,8 +1270,8 @@
             <mxPoint x="727" y="-1124" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bzsjij8QIIZRabs9Qi1y-43" value="主语从句 (引导词开头且无,it作形式主语)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="582" y="-1260" width="252" height="40" as="geometry" />
+        <mxCell id="Bzsjij8QIIZRabs9Qi1y-43" value="判断从句类型看主句,选连接词看从句" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="549" y="-1260" width="252" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bzsjij8QIIZRabs9Qi1y-44" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;" edge="1" parent="1" source="Bzsjij8QIIZRabs9Qi1y-48" target="Bzsjij8QIIZRabs9Qi1y-40">
           <mxGeometry relative="1" as="geometry">
@@ -1279,8 +1279,8 @@
             <mxPoint x="579" y="-1130" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bzsjij8QIIZRabs9Qi1y-45" value="表语从句 (系+引导词)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="582" y="-1140" width="146" height="40" as="geometry" />
+        <mxCell id="Bzsjij8QIIZRabs9Qi1y-45" value="同位语三要素:完整,抽象,等同 90%用that" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="549" y="-1169" width="258" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bzsjij8QIIZRabs9Qi1y-46" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0;exitDx=0;exitDy=15;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" target="Bzsjij8QIIZRabs9Qi1y-47" source="Bzsjij8QIIZRabs9Qi1y-40">
           <mxGeometry relative="1" as="geometry">
@@ -1288,11 +1288,11 @@
             <mxPoint x="579" y="-1130" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bzsjij8QIIZRabs9Qi1y-47" value="同位语从句 (完整,抽象,等同)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="582" y="-1100" width="170" height="40" as="geometry" />
+        <mxCell id="Bzsjij8QIIZRabs9Qi1y-47" value="省略" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="549" y="-1139" width="170" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bzsjij8QIIZRabs9Qi1y-48" value="宾语从句 (vt1 介 vt2+IO+DO it作形式主语)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="582" y="-1180" width="266" height="40" as="geometry" />
+        <mxCell id="Bzsjij8QIIZRabs9Qi1y-48" value="宾从第一个that可以省略,(只在宾从中用)if≤whether(+or not/介/there be)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="552.5" y="-1200" width="448" height="40" as="geometry" />
         </mxCell>
         <mxCell id="Bzsjij8QIIZRabs9Qi1y-49" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=0;exitY=0;exitDx=0;exitDy=15;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Bzsjij8QIIZRabs9Qi1y-40" target="Bzsjij8QIIZRabs9Qi1y-55">
           <mxGeometry relative="1" as="geometry">
@@ -1306,26 +1306,17 @@
             <mxPoint x="510" y="-1160" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bzsjij8QIIZRabs9Qi1y-51" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0;exitDx=0;exitDy=15;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" target="Bzsjij8QIIZRabs9Qi1y-52">
+        <mxCell id="Bzsjij8QIIZRabs9Qi1y-51" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0;exitDx=0;exitDy=15;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" target="Bzsjij8QIIZRabs9Qi1y-52" source="Bzsjij8QIIZRabs9Qi1y-40">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="747" y="-954" as="targetPoint" />
             <mxPoint x="515" y="-1155" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Bzsjij8QIIZRabs9Qi1y-52" value="同位语从句 (完整,抽象,等同)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="582" y="-1050" width="170" height="40" as="geometry" />
+        <mxCell id="Bzsjij8QIIZRabs9Qi1y-52" value="一人得到,鸡犬升天" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="549" y="-1109" width="118" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="Bzsjij8QIIZRabs9Qi1y-53" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;exitX=0;exitY=0;exitDx=0;exitDy=15;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" target="Bzsjij8QIIZRabs9Qi1y-54" source="Bzsjij8QIIZRabs9Qi1y-40">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="742" y="-829" as="targetPoint" />
-            <mxPoint x="510" y="-1030" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Bzsjij8QIIZRabs9Qi1y-54" value="同位语从句 (完整,抽象,等同)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="582" y="-965" width="170" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="Bzsjij8QIIZRabs9Qi1y-55" value="同位语从句 (完整,抽象,等同)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="582" y="-1220" width="170" height="40" as="geometry" />
+        <mxCell id="Bzsjij8QIIZRabs9Qi1y-55" value="从句同意用陈述句语序" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="549" y="-1230" width="170" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
