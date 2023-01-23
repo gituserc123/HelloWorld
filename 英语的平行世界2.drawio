@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-23T11:59:17.817Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="uco63JGZwnNuMe2XJYye" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-23T12:21:45.475Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="BmSm1bU1L4-GIAtOW3qS" version="20.8.10" type="github">
   <diagram id="1wD_X5J8tofuM-vasSyo" name="第 1 页">
     <mxGraphModel dx="1687" dy="6744" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1500,6 +1500,474 @@
         </mxCell>
         <mxCell id="Bzsjij8QIIZRabs9Qi1y-109" value="which分先后,主句先发生,从句后评价 as不分先后,把主句当事实" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="1419" y="-3941" width="421" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-3" value="时间状从" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="694" y="-3570" width="63" height="33" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-4" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-11" target="xSmjOdUoqY_JSRVLvolI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="-3615" as="sourcePoint" />
+            <mxPoint x="876" y="-3417" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-5" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-6" target="xSmjOdUoqY_JSRVLvolI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="-3502" as="sourcePoint" />
+            <mxPoint x="1001" y="-3532" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-6" value="before after since when" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="805" y="-3461" width="160" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-11" value="when while as" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="801" y="-3649" width="99" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-12" value="状语从句(一个完整的句子在修饰另一个句子的动词)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="319" y="-3390" width="324" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-13" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-14" target="xSmjOdUoqY_JSRVLvolI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="-3515" as="sourcePoint" />
+            <mxPoint x="1027" y="-3602" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-14" value="till until not...until" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="799" y="-3407" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-15" value="引导词" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="920" y="-3048.5" width="55" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-16" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-22" target="xSmjOdUoqY_JSRVLvolI-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="990" y="-2880" as="sourcePoint" />
+            <mxPoint x="961" y="-3067" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-17" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-18" target="xSmjOdUoqY_JSRVLvolI-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="956" y="-2767" as="sourcePoint" />
+            <mxPoint x="961" y="-2797" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-18" value="关系副词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="998" y="-3055" width="73" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-19" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-22" target="xSmjOdUoqY_JSRVLvolI-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1296" y="-2840" as="sourcePoint" />
+            <mxPoint x="1420" y="-2837" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-20" value="which who whom as" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1109" y="-3073" width="156" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-21" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-18" target="xSmjOdUoqY_JSRVLvolI-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1045" y="-2712" as="sourcePoint" />
+            <mxPoint x="1101" y="-3027" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-22" value="关系代词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="996.5" y="-3078" width="64.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-23" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-28" target="xSmjOdUoqY_JSRVLvolI-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="981" y="-2828" as="targetPoint" />
+            <mxPoint x="941" y="-2888" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-24" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-25" target="xSmjOdUoqY_JSRVLvolI-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1000" y="-2780" as="sourcePoint" />
+            <mxPoint x="987" y="-2867" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-25" value="关系形容词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="998" y="-3030" width="73" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-26" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-12" target="xSmjOdUoqY_JSRVLvolI-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="581" y="-3643" as="targetPoint" />
+            <mxPoint x="670" y="-3670" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-27" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-12" target="xSmjOdUoqY_JSRVLvolI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="-3665.9999999999995" as="targetPoint" />
+            <mxPoint x="660" y="-3690" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-28" value="让步状从" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="719.25" y="-3050" width="157.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-33" value="when where 介+which" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1117" y="-3050" width="156" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-34" value="whose=of whom/which(从句名词前有the)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1121" y="-3019" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-35" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-25" target="xSmjOdUoqY_JSRVLvolI-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1081" y="-3021" as="sourcePoint" />
+            <mxPoint x="1127" y="-3021" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-36" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-12" target="hqNwibnlh16U7bYU6Boq-330">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="268" y="-2351" as="targetPoint" />
+            <mxPoint x="326" y="-3904" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-69" value="引导词" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="-2718.5" width="55" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-70" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-76" target="xSmjOdUoqY_JSRVLvolI-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1020" y="-2550" as="sourcePoint" />
+            <mxPoint x="991" y="-2737" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-71" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-72" target="xSmjOdUoqY_JSRVLvolI-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="986" y="-2437" as="sourcePoint" />
+            <mxPoint x="991" y="-2467" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-72" value="关系副词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1028" y="-2725" width="73" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-73" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-76" target="xSmjOdUoqY_JSRVLvolI-74">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1326" y="-2510" as="sourcePoint" />
+            <mxPoint x="1450" y="-2507" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-74" value="which who whom as" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1139" y="-2743" width="156" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-75" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-72" target="xSmjOdUoqY_JSRVLvolI-82">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1075" y="-2382" as="sourcePoint" />
+            <mxPoint x="1131" y="-2697" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-76" value="关系代词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1026.5" y="-2748" width="64.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-77" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-81" target="xSmjOdUoqY_JSRVLvolI-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1011" y="-2498" as="targetPoint" />
+            <mxPoint x="971" y="-2558" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-78" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-79" target="xSmjOdUoqY_JSRVLvolI-69">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="-2450" as="sourcePoint" />
+            <mxPoint x="1017" y="-2537" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-79" value="关系形容词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1028" y="-2700" width="73" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-80" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xSmjOdUoqY_JSRVLvolI-81">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="611" y="-2693" as="targetPoint" />
+            <mxPoint x="680" y="-2744" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-81" value="原因状从" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="749.25" y="-2720" width="157.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-82" value="when where 介+which" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1147" y="-2720" width="156" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-83" value="whose=of whom/which(从句名词前有the)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1151" y="-2689" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-84" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-79" target="xSmjOdUoqY_JSRVLvolI-83">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1111" y="-2691" as="sourcePoint" />
+            <mxPoint x="1157" y="-2691" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-85" value="引导词" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-2898.5" width="55" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-86" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-92" target="xSmjOdUoqY_JSRVLvolI-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="-2730" as="sourcePoint" />
+            <mxPoint x="1001" y="-2917" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-87" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-88" target="xSmjOdUoqY_JSRVLvolI-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="-2617" as="sourcePoint" />
+            <mxPoint x="1001" y="-2647" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-88" value="关系副词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1038" y="-2905" width="73" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-89" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-92" target="xSmjOdUoqY_JSRVLvolI-90">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1336" y="-2690" as="sourcePoint" />
+            <mxPoint x="1460" y="-2687" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-90" value="which who whom as" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="-2923" width="156" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-91" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-88" target="xSmjOdUoqY_JSRVLvolI-98">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1085" y="-2562" as="sourcePoint" />
+            <mxPoint x="1141" y="-2877" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-92" value="关系代词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1036.5" y="-2928" width="64.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-93" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-97" target="xSmjOdUoqY_JSRVLvolI-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1021" y="-2678" as="targetPoint" />
+            <mxPoint x="981" y="-2738" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-94" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-95" target="xSmjOdUoqY_JSRVLvolI-85">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="-2630" as="sourcePoint" />
+            <mxPoint x="1027" y="-2717" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-95" value="关系形容词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1038" y="-2880" width="73" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-96" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xSmjOdUoqY_JSRVLvolI-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="621" y="-2873" as="targetPoint" />
+            <mxPoint x="690" y="-2924" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-97" value="条件状从" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="759.25" y="-2900" width="157.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-98" value="when where 介+which" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1157" y="-2900" width="156" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-99" value="whose=of whom/which(从句名词前有the)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1161" y="-2869" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-100" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-95" target="xSmjOdUoqY_JSRVLvolI-99">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1121" y="-2871" as="sourcePoint" />
+            <mxPoint x="1167" y="-2871" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-101" value="引导词" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-2598.5" width="55" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-102" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-108" target="xSmjOdUoqY_JSRVLvolI-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="-2430" as="sourcePoint" />
+            <mxPoint x="1001" y="-2617" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-103" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-104" target="xSmjOdUoqY_JSRVLvolI-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="-2317" as="sourcePoint" />
+            <mxPoint x="1001" y="-2347" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-104" value="关系副词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1038" y="-2605" width="73" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-105" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-108" target="xSmjOdUoqY_JSRVLvolI-106">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1336" y="-2390" as="sourcePoint" />
+            <mxPoint x="1460" y="-2387" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-106" value="which who whom as" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1149" y="-2623" width="156" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-107" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-104" target="xSmjOdUoqY_JSRVLvolI-114">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1085" y="-2262" as="sourcePoint" />
+            <mxPoint x="1141" y="-2577" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-108" value="关系代词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1036.5" y="-2628" width="64.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-109" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-113" target="xSmjOdUoqY_JSRVLvolI-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1021" y="-2378" as="targetPoint" />
+            <mxPoint x="981" y="-2438" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-110" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-111" target="xSmjOdUoqY_JSRVLvolI-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="-2330" as="sourcePoint" />
+            <mxPoint x="1027" y="-2417" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-111" value="关系形容词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1038" y="-2580" width="73" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-112" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xSmjOdUoqY_JSRVLvolI-113">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="621" y="-2573" as="targetPoint" />
+            <mxPoint x="690" y="-2624" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-113" value="地点/目的/结果状从" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="759.25" y="-2600" width="157.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-114" value="when where 介+which" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1157" y="-2600" width="156" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-115" value="whose=of whom/which(从句名词前有the)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1161" y="-2569" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-116" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-111" target="xSmjOdUoqY_JSRVLvolI-115">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1121" y="-2571" as="sourcePoint" />
+            <mxPoint x="1167" y="-2571" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-117" value="引导词" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="970" y="-2488.5" width="55" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-118" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-124" target="xSmjOdUoqY_JSRVLvolI-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040" y="-2320" as="sourcePoint" />
+            <mxPoint x="1011" y="-2507" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-119" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-120" target="xSmjOdUoqY_JSRVLvolI-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1006" y="-2207" as="sourcePoint" />
+            <mxPoint x="1011" y="-2237" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-120" value="关系副词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="-2495" width="73" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-121" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-124" target="xSmjOdUoqY_JSRVLvolI-122">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1346" y="-2280" as="sourcePoint" />
+            <mxPoint x="1470" y="-2277" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-122" value="which who whom as" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1159" y="-2513" width="156" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-123" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-120" target="xSmjOdUoqY_JSRVLvolI-130">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1095" y="-2152" as="sourcePoint" />
+            <mxPoint x="1151" y="-2467" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-124" value="关系代词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1046.5" y="-2518" width="64.5" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-125" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-129" target="xSmjOdUoqY_JSRVLvolI-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1031" y="-2268" as="targetPoint" />
+            <mxPoint x="991" y="-2328" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-126" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-127" target="xSmjOdUoqY_JSRVLvolI-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1050" y="-2220" as="sourcePoint" />
+            <mxPoint x="1037" y="-2307" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-127" value="关系形容词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1048" y="-2470" width="73" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-128" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="xSmjOdUoqY_JSRVLvolI-129">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="631" y="-2463" as="targetPoint" />
+            <mxPoint x="700" y="-2514" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-129" value="比较/方式状从" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="769.25" y="-2490" width="157.5" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-130" value="when where 介+which" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1167" y="-2490" width="156" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-131" value="whose=of whom/which(从句名词前有the)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1171" y="-2459" width="270" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-132" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-127" target="xSmjOdUoqY_JSRVLvolI-131">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1131" y="-2461" as="sourcePoint" />
+            <mxPoint x="1177" y="-2461" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-133" value="一...就..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="801" y="-3351" width="141" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-134" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.25;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-133" target="xSmjOdUoqY_JSRVLvolI-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="809" y="-3621.0000000000005" as="sourcePoint" />
+            <mxPoint x="780" y="-3653.4999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-135" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-138" target="xSmjOdUoqY_JSRVLvolI-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1410" y="-3685" as="sourcePoint" />
+            <mxPoint x="1150" y="-3733.4999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-136" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-137" target="xSmjOdUoqY_JSRVLvolI-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1376" y="-3572" as="sourcePoint" />
+            <mxPoint x="1150" y="-3733.4999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-137" value="while(只接延续性动词和时间段)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="938" y="-3730" width="215" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-138" value="when(短暂性动词/延续性动词)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="938" y="-3770" width="193" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-139" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-140" target="xSmjOdUoqY_JSRVLvolI-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1420" y="-3585" as="sourcePoint" />
+            <mxPoint x="1150" y="-3733.4999999999995" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-140" value="as(随着:一边...一边)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="938" y="-3710" width="131" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-146" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-149" target="xSmjOdUoqY_JSRVLvolI-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1710" y="-3675" as="sourcePoint" />
+            <mxPoint x="1200" y="-3624" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-147" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-148" target="xSmjOdUoqY_JSRVLvolI-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1676" y="-3562" as="sourcePoint" />
+            <mxPoint x="1200" y="-3624" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-148" value="while(只接延续性动词和时间段)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="938" y="-3619" width="215" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-149" value="when(短暂性动词/延续性动词)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="938" y="-3669" width="193" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-150" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="xSmjOdUoqY_JSRVLvolI-151" target="xSmjOdUoqY_JSRVLvolI-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1720" y="-3575" as="sourcePoint" />
+            <mxPoint x="1200" y="-3624" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="xSmjOdUoqY_JSRVLvolI-151" value="as(随着:一边...一边)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="938" y="-3580" width="131" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
