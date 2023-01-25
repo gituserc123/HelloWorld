@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-25T00:28:44.370Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="XniZRXENKwfZPBh3o5fW" version="20.8.10" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-25T00:39:02.072Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="RU6-1kLtR8nT4zK71XRN" version="20.8.10" type="github">
   <diagram id="1wD_X5J8tofuM-vasSyo" name="第 1 页">
     <mxGraphModel dx="1434" dy="6609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2785,6 +2785,24 @@
             <mxPoint x="1186.5" y="-2728.5" as="sourcePoint" />
             <mxPoint x="1450" y="-2678.75" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="Iw1vPiNTuEvFZK0nqwAu-52" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iw1vPiNTuEvFZK0nqwAu-53" target="-qHjGPN2gJ5L7-rlqjcb-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="363.5" y="-2265" as="sourcePoint" />
+            <mxPoint x="373.5" y="-2285" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iw1vPiNTuEvFZK0nqwAu-53" value="强调句" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="327" y="-2410" width="46" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Iw1vPiNTuEvFZK0nqwAu-54" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Iw1vPiNTuEvFZK0nqwAu-53" target="Iw1vPiNTuEvFZK0nqwAu-55">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="377" y="-2390" as="sourcePoint" />
+            <mxPoint x="437" y="-2200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Iw1vPiNTuEvFZK0nqwAu-55" value="It is/was +被强调部分+that+..." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="492" y="-2405" width="210.5" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
