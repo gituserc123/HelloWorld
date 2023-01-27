@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-27T15:11:07.959Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="UL-E-7wlrjnj5ToqsMvh" version="20.8.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-27T15:23:02.057Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ZRF27WwxZtDUKndrQLVg" version="20.8.11" type="github">
   <diagram id="1wD_X5J8tofuM-vasSyo" name="第 1 页">
     <mxGraphModel dx="1434" dy="6609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1694,55 +1694,55 @@
           <mxGeometry x="707.25" y="-3030" width="70.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-101" value="完成式" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="-1908.5" width="55" height="27" as="geometry" />
+          <mxGeometry x="960" y="-1278.5" width="55" height="27" as="geometry" />
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-102" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xSmjOdUoqY_JSRVLvolI-108" target="xSmjOdUoqY_JSRVLvolI-101" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1030" y="-1740" as="sourcePoint" />
-            <mxPoint x="1001" y="-1927" as="targetPoint" />
+            <mxPoint x="1030" y="-1110" as="sourcePoint" />
+            <mxPoint x="1001" y="-1297" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-103" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xSmjOdUoqY_JSRVLvolI-104" target="xSmjOdUoqY_JSRVLvolI-101" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="996" y="-1627" as="sourcePoint" />
-            <mxPoint x="1001" y="-1657" as="targetPoint" />
+            <mxPoint x="996" y="-997" as="sourcePoint" />
+            <mxPoint x="1001" y="-1027" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-104" value="关系副词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1038" y="-1915" width="73" height="48" as="geometry" />
+          <mxGeometry x="1038" y="-1285" width="73" height="48" as="geometry" />
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-105" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xSmjOdUoqY_JSRVLvolI-108" target="xSmjOdUoqY_JSRVLvolI-106" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1336" y="-1700" as="sourcePoint" />
-            <mxPoint x="1460" y="-1697" as="targetPoint" />
+            <mxPoint x="1336" y="-1070" as="sourcePoint" />
+            <mxPoint x="1460" y="-1067" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-106" value="which who whom as" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1149" y="-1933" width="156" height="38" as="geometry" />
+          <mxGeometry x="1149" y="-1303" width="156" height="38" as="geometry" />
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-107" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xSmjOdUoqY_JSRVLvolI-104" target="xSmjOdUoqY_JSRVLvolI-114" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1085" y="-1572" as="sourcePoint" />
-            <mxPoint x="1141" y="-1887" as="targetPoint" />
+            <mxPoint x="1085" y="-942" as="sourcePoint" />
+            <mxPoint x="1141" y="-1257" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-108" value="关系代词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1036.5" y="-1938" width="64.5" height="48" as="geometry" />
+          <mxGeometry x="1036.5" y="-1308" width="64.5" height="48" as="geometry" />
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-109" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="xSmjOdUoqY_JSRVLvolI-101" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1021" y="-1688" as="targetPoint" />
-            <mxPoint x="916.75" y="-1895" as="sourcePoint" />
+            <mxPoint x="1021" y="-1058" as="targetPoint" />
+            <mxPoint x="916.75" y="-1265" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-110" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xSmjOdUoqY_JSRVLvolI-111" target="xSmjOdUoqY_JSRVLvolI-101" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1040" y="-1640" as="sourcePoint" />
-            <mxPoint x="1027" y="-1727" as="targetPoint" />
+            <mxPoint x="1040" y="-1010" as="sourcePoint" />
+            <mxPoint x="1027" y="-1097" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-111" value="关系形容词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1038" y="-1890" width="73" height="48" as="geometry" />
+          <mxGeometry x="1038" y="-1260" width="73" height="48" as="geometry" />
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-112" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="xSmjOdUoqY_JSRVLvolI-12" target="xSmjOdUoqY_JSRVLvolI-113" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -1754,15 +1754,15 @@
           <mxGeometry x="707.25" y="-2952" width="122.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-114" value="when where 介+which" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1157" y="-1910" width="156" height="38" as="geometry" />
+          <mxGeometry x="1157" y="-1280" width="156" height="38" as="geometry" />
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-115" value="whose=of whom/which(从句名词前有the)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="1161" y="-1879" width="270" height="26" as="geometry" />
+          <mxGeometry x="1161" y="-1249" width="270" height="26" as="geometry" />
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-116" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="xSmjOdUoqY_JSRVLvolI-111" target="xSmjOdUoqY_JSRVLvolI-115" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1121" y="-1881" as="sourcePoint" />
-            <mxPoint x="1167" y="-1881" as="targetPoint" />
+            <mxPoint x="1121" y="-1251" as="sourcePoint" />
+            <mxPoint x="1167" y="-1251" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="xSmjOdUoqY_JSRVLvolI-117" value="倒装" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" parent="1" vertex="1">
@@ -3042,7 +3042,7 @@
           <mxGeometry x="1550" y="-2332.5" width="420" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="-xuxV2ALfl5UVASLpKqz-24" value="It is/has been 10 years since i started to smoke(我抽烟已经十年了)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#1ba1e2;strokeColor=#006EAF;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1438" y="-2081" width="420" height="32.5" as="geometry" />
+          <mxGeometry x="1488" y="-2188" width="420" height="32.5" as="geometry" />
         </mxCell>
         <mxCell id="-xuxV2ALfl5UVASLpKqz-26" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-24" target="-xuxV2ALfl5UVASLpKqz-23">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -3156,7 +3156,7 @@
           <mxGeometry x="624.75" y="-1958" width="85" height="21" as="geometry" />
         </mxCell>
         <mxCell id="-xuxV2ALfl5UVASLpKqz-83" value="过去将来式" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="661.75" y="-1771" width="85" height="21" as="geometry" />
+          <mxGeometry x="655.75" y="-1771" width="85" height="21" as="geometry" />
         </mxCell>
         <mxCell id="-xuxV2ALfl5UVASLpKqz-84" value="进行式" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="663" y="-1892.5" width="85" height="21" as="geometry" />
@@ -3205,6 +3205,144 @@
             <mxPoint x="480" y="-1660" as="sourcePoint" />
             <mxPoint x="900" y="-1763" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-103" value="注意点" style="text;strokeColor=#2D7600;fillColor=#60a917;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="941" y="-1957" width="55" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-104" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-107" target="-xuxV2ALfl5UVASLpKqz-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1069" y="-1750" as="sourcePoint" />
+            <mxPoint x="1040" y="-1937" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-105" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-106" target="-xuxV2ALfl5UVASLpKqz-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1035" y="-1637" as="sourcePoint" />
+            <mxPoint x="1040" y="-1667" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-106" value="被动即完整(省宾语)" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1020.5" y="-1979.5" width="209.5" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-107" value="不及物动词和系动词没有被动语态" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1020.5" y="-2006" width="249.5" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-108" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-109" target="-xuxV2ALfl5UVASLpKqz-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1079" y="-1650" as="sourcePoint" />
+            <mxPoint x="1066" y="-1737" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-109" value="it做形式主语:it is said that... (that后面即为被动)" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1020.5" y="-1949.5" width="309.5" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-110" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-113" target="-xuxV2ALfl5UVASLpKqz-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1030" y="-1680" as="sourcePoint" />
+            <mxPoint x="1015" y="-1835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-111" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-112" target="-xuxV2ALfl5UVASLpKqz-103">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="996" y="-1567" as="sourcePoint" />
+            <mxPoint x="1015" y="-1835" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-112" value="没被动的动词(have,cost,fit,break out)" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1020.5" y="-1892" width="259.5" height="22" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-113" value="双宾语的被动(间宾除外)" style="text;html=1;strokeColor=#2D7600;fillColor=#60a917;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="1020.5" y="-1923" width="229.5" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-133" value="真实现在,将来注意主将从现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#9d8a10;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-1863" width="196" height="35" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-134" value="I will not go to the park if it rains tomorrow" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1560" y="-2062.5" width="420" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-135" value="He said he would not go to the park if it rained the next day" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffcccc;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="1498" y="-1918" width="420" height="32.5" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-136" value="" style="endArrow=none;dashed=1;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-135" target="-xuxV2ALfl5UVASLpKqz-134">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1680" y="-1940" as="sourcePoint" />
+            <mxPoint x="1730" y="-1990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-137" value="真实:主将从现 虚拟:非主将从现 表达将来的方法" style="text;strokeColor=#36393d;fillColor=#cce5ff;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="1250" y="-1828.5" width="305" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-138" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-144" target="-xuxV2ALfl5UVASLpKqz-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1570" y="-1660" as="sourcePoint" />
+            <mxPoint x="1541" y="-1847" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-139" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-140" target="-xuxV2ALfl5UVASLpKqz-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1536" y="-1547" as="sourcePoint" />
+            <mxPoint x="1541" y="-1577" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-140" value="should go" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1578" y="-1828.5" width="142" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-144" value="一般现在变为一般过去" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1576.25" y="-1863" width="263.5" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-145" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-146" target="-xuxV2ALfl5UVASLpKqz-137">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1580" y="-1560" as="sourcePoint" />
+            <mxPoint x="1567" y="-1647" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-146" value="were to go" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1576.25" y="-1805" width="73" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-150" value="真实过去:宾从中主语是" style="text;strokeColor=#36393d;fillColor=#cce5ff;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="910" y="-1768.5" width="165" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-151" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-154" target="-xuxV2ALfl5UVASLpKqz-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1090" y="-1600" as="sourcePoint" />
+            <mxPoint x="1061" y="-1787" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-152" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-153" target="-xuxV2ALfl5UVASLpKqz-150">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1056" y="-1487" as="sourcePoint" />
+            <mxPoint x="1061" y="-1517" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-153" value="一般过去,从句用对应的过去时态,时态提前" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1096.25" y="-1741.5" width="312" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-154" value="一般现在时,从句可以用任意时态" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1096.25" y="-1793" width="263.5" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-163" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-157" target="-xuxV2ALfl5UVASLpKqz-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-157" value="间接引语" style="text;strokeColor=#36393d;fillColor=#cce5ff;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="960" y="-1680" width="65" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-158" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-161" target="-xuxV2ALfl5UVASLpKqz-157">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1074.5" y="-1507" as="sourcePoint" />
+            <mxPoint x="1045.5" y="-1694" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-159" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="-xuxV2ALfl5UVASLpKqz-160" target="-xuxV2ALfl5UVASLpKqz-157">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1040.5" y="-1394" as="sourcePoint" />
+            <mxPoint x="1045.5" y="-1424" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-160" value="Tom said,if it rained next day he would not go shopping.&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1049.75" y="-1648.5" width="390.25" height="15" as="geometry" />
+        </mxCell>
+        <mxCell id="-xuxV2ALfl5UVASLpKqz-161" value="Tom said,&quot;if it rains tomorrow,i will not to go shopping&quot;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="1049.75" y="-1700" width="350.25" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
