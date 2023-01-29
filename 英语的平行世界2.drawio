@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-01-29T15:23:02.205Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="ZPgg1xzx5MRMxZl_iWIX" version="20.8.13" type="github">
+<mxfile host="app.diagrams.net" modified="2023-01-29T15:26:07.483Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="h0hvllE6BPwKkUvrTy8e" version="20.8.13" type="github">
   <diagram id="1wD_X5J8tofuM-vasSyo" name="第 1 页">
     <mxGraphModel dx="1509" dy="7818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3381,7 +3381,7 @@
           <mxGeometry x="510.5" y="-2413" width="299.5" height="23" as="geometry" />
         </mxCell>
         <mxCell id="Z9JDKbNnNO6OhEohyrVv-62" value="" style="shape=table;startSize=0;container=1;collapsible=0;childLayout=tableLayout;" vertex="1" parent="1">
-          <mxGeometry x="490.13" y="-2340" width="597.75" height="160" as="geometry" />
+          <mxGeometry x="431" y="-2350" width="597.75" height="160" as="geometry" />
         </mxCell>
         <mxCell id="Z9JDKbNnNO6OhEohyrVv-63" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="Z9JDKbNnNO6OhEohyrVv-62">
           <mxGeometry width="597.75" height="40" as="geometry" />
@@ -3458,6 +3458,51 @@
         <mxCell id="Z9JDKbNnNO6OhEohyrVv-79" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=-0.001;exitY=-0.016;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitPerimeter=0;" edge="1" parent="1" source="Z9JDKbNnNO6OhEohyrVv-71" target="-qHjGPN2gJ5L7-rlqjcb-9">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="505" y="-1554.000000000001" as="sourcePoint" />
+            <mxPoint x="410" y="-1950" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z9JDKbNnNO6OhEohyrVv-80" value="条件错综(主从句分开看)" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="429" y="-2140" width="160" height="27" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9JDKbNnNO6OhEohyrVv-81" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9JDKbNnNO6OhEohyrVv-84" target="Z9JDKbNnNO6OhEohyrVv-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="569" y="-1890" as="sourcePoint" />
+            <mxPoint x="540" y="-2077" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z9JDKbNnNO6OhEohyrVv-82" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9JDKbNnNO6OhEohyrVv-83" target="Z9JDKbNnNO6OhEohyrVv-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="535" y="-1777" as="sourcePoint" />
+            <mxPoint x="540" y="-1807" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z9JDKbNnNO6OhEohyrVv-83" value="If i were you,i wouldn&#39;t had missed the film last night" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="629" y="-2153" width="368.5" height="26.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9JDKbNnNO6OhEohyrVv-84" value="If you had followed my advice,you would do it better now" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="629" y="-2179.5" width="358.5" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9JDKbNnNO6OhEohyrVv-85" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9JDKbNnNO6OhEohyrVv-86" target="Z9JDKbNnNO6OhEohyrVv-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="579" y="-1790" as="sourcePoint" />
+            <mxPoint x="566" y="-1877" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z9JDKbNnNO6OhEohyrVv-86" value="If you had taken you medicine yesterday,you would be quite all right now" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="629" y="-2123" width="468.5" height="19.5" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9JDKbNnNO6OhEohyrVv-87" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9JDKbNnNO6OhEohyrVv-90" target="Z9JDKbNnNO6OhEohyrVv-80">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="-1820" as="sourcePoint" />
+            <mxPoint x="515" y="-1975" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Z9JDKbNnNO6OhEohyrVv-90" value="I would have came to your party,but i was too busy last night" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="629" y="-2096.5" width="448.5" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="Z9JDKbNnNO6OhEohyrVv-91" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="Z9JDKbNnNO6OhEohyrVv-80" target="-qHjGPN2gJ5L7-rlqjcb-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="499.5322500000002" y="-2250.6400000000003" as="sourcePoint" />
             <mxPoint x="410" y="-1950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
