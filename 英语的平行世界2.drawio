@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-04T09:07:07.534Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="VGOCr152K7Uk0IbJbDo0" version="20.8.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-04T09:13:15.992Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="hFjC1EasLPMEMhCgNSa_" version="20.8.13" type="github" pages="2">
   <diagram id="8ZzaKIilwxp1V5g60k34" name="第 2 页">
     <mxGraphModel dx="607" dy="3102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -134,7 +134,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="1wD_X5J8tofuM-vasSyo" name="第 1 页">
-    <mxGraphModel dx="1509" dy="7818" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2607" dy="8403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -4101,7 +4101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-26" value="是to do还是doing" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="549" y="1340" width="134" height="18" as="geometry" />
+          <mxGeometry x="405.5" y="426" width="125.15" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-27" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-30" target="TC2v2hh1t1ES2_4kBCAJ-20">
           <mxGeometry relative="1" as="geometry">
@@ -4110,7 +4110,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-30" value="分词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="538.7" y="1480" width="44.43" height="28" as="geometry" />
+          <mxGeometry x="405.5" y="950" width="44.43" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-33" value="不定式:不确定(to do)[n.a.ad.]" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
           <mxGeometry x="405.5" y="-646.5" width="193" height="27" as="geometry" />
@@ -4134,7 +4134,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-40" value="逻辑主语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="685.25" y="-387" width="79" height="18" as="geometry" />
+          <mxGeometry x="656.25" y="-387" width="79" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-41" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-49" target="TC2v2hh1t1ES2_4kBCAJ-33">
           <mxGeometry relative="1" as="geometry">
@@ -4144,77 +4144,77 @@
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-47" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-49" target="TC2v2hh1t1ES2_4kBCAJ-48">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="590.75" y="-310.0000000000009" as="sourcePoint" />
-            <mxPoint x="648.6300000000001" y="-309.5000000000009" as="targetPoint" />
+            <mxPoint x="561.75" y="-310.0000000000009" as="sourcePoint" />
+            <mxPoint x="619.6300000000001" y="-309.5000000000009" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-48" value="在不定式前加not" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="807.63" y="-330" width="156" height="21" as="geometry" />
+          <mxGeometry x="778.63" y="-330" width="156" height="21" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-49" value="否定" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="685.25" y="-331" width="64.5" height="16" as="geometry" />
+          <mxGeometry x="656.25" y="-331" width="64.5" height="16" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-67" value="作成份" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="685.25" y="-880" width="55" height="27" as="geometry" />
+          <mxGeometry x="656.25" y="-880" width="55" height="27" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-68" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-71" target="TC2v2hh1t1ES2_4kBCAJ-67">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="762" y="-842" as="sourcePoint" />
-            <mxPoint x="733" y="-1029" as="targetPoint" />
+            <mxPoint x="733" y="-842" as="sourcePoint" />
+            <mxPoint x="704" y="-1029" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-69" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-70" target="TC2v2hh1t1ES2_4kBCAJ-67">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="728" y="-729" as="sourcePoint" />
-            <mxPoint x="733" y="-759" as="targetPoint" />
+            <mxPoint x="699" y="-729" as="sourcePoint" />
+            <mxPoint x="704" y="-759" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-70" value="做表语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-1022" width="50" height="20" as="geometry" />
+          <mxGeometry x="731" y="-1022" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-71" value="做主语 To see is to believe" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-1062" width="173.5" height="28" as="geometry" />
+          <mxGeometry x="731" y="-1062" width="173.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-72" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-73" target="TC2v2hh1t1ES2_4kBCAJ-67">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="772" y="-742" as="sourcePoint" />
-            <mxPoint x="759" y="-829" as="targetPoint" />
+            <mxPoint x="743" y="-742" as="sourcePoint" />
+            <mxPoint x="730" y="-829" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-73" value="作定语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-966" width="58" height="18" as="geometry" />
+          <mxGeometry x="731" y="-966" width="58" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-74" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-77" target="TC2v2hh1t1ES2_4kBCAJ-67">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="772" y="-742" as="sourcePoint" />
-            <mxPoint x="757" y="-897" as="targetPoint" />
+            <mxPoint x="743" y="-742" as="sourcePoint" />
+            <mxPoint x="728" y="-897" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-75" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-76" target="TC2v2hh1t1ES2_4kBCAJ-67">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="738" y="-629" as="sourcePoint" />
-            <mxPoint x="757" y="-897" as="targetPoint" />
+            <mxPoint x="709" y="-629" as="sourcePoint" />
+            <mxPoint x="728" y="-897" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-76" value="作状语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-831" width="58.75" height="20" as="geometry" />
+          <mxGeometry x="731" y="-831" width="58.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-77" value="做同位语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-908" width="60.62" height="28" as="geometry" />
+          <mxGeometry x="731" y="-908" width="60.62" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-78" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-79" target="TC2v2hh1t1ES2_4kBCAJ-67">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="782" y="-642" as="sourcePoint" />
-            <mxPoint x="757" y="-897" as="targetPoint" />
+            <mxPoint x="753" y="-642" as="sourcePoint" />
+            <mxPoint x="728" y="-897" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-79" value="做宾语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-735.5" width="70" height="18" as="geometry" />
+          <mxGeometry x="731" y="-735.5" width="70" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-80" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-152" target="TC2v2hh1t1ES2_4kBCAJ-67">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="819.1300000000001" y="-101" as="sourcePoint" />
-            <mxPoint x="745" y="-719.5" as="targetPoint" />
+            <mxPoint x="790.1300000000001" y="-101" as="sourcePoint" />
+            <mxPoint x="716" y="-719.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-82" value="完成式" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
@@ -4281,349 +4281,349 @@
           <mxGeometry x="1577" y="3289" width="153.5" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-103" value="The only thing (that) i can do now is (to) wait" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="869.42" y="-1008" width="433.15" height="20" as="geometry" />
+          <mxGeometry x="840.42" y="-1008" width="433.15" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-104" value="不定式作表语,主语部分有实义动词do的任何形式,表语省to" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="869.75" y="-1036" width="423" height="20" as="geometry" />
+          <mxGeometry x="840.75" y="-1036" width="423" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-105" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-104" target="TC2v2hh1t1ES2_4kBCAJ-70">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="810" y="-1002" as="sourcePoint" />
-            <mxPoint x="745" y="-758.5" as="targetPoint" />
+            <mxPoint x="781" y="-1002" as="sourcePoint" />
+            <mxPoint x="716" y="-758.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-106" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-103" target="TC2v2hh1t1ES2_4kBCAJ-70">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="947" y="-1022" as="sourcePoint" />
-            <mxPoint x="870" y="-1002" as="targetPoint" />
+            <mxPoint x="918" y="-1022" as="sourcePoint" />
+            <mxPoint x="841" y="-1002" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-107" value="不定式与动作之间是动宾关系的时候,要注意是否是及物动词,如果不是,要加介词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="876.77" y="-950" width="513.23" height="20" as="geometry" />
+          <mxGeometry x="847.77" y="-950" width="513.23" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-108" value="He is always the first one to come and the last one to leave" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="877.1" y="-982" width="423" height="20" as="geometry" />
+          <mxGeometry x="848.1" y="-982" width="423" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-109" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-108" target="TC2v2hh1t1ES2_4kBCAJ-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="817.35" y="-946" as="sourcePoint" />
-            <mxPoint x="857.35" y="-956" as="targetPoint" />
+            <mxPoint x="788.35" y="-946" as="sourcePoint" />
+            <mxPoint x="828.35" y="-956" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-110" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-107" target="TC2v2hh1t1ES2_4kBCAJ-73">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="954.35" y="-966" as="sourcePoint" />
-            <mxPoint x="857.35" y="-956" as="targetPoint" />
+            <mxPoint x="925.35" y="-966" as="sourcePoint" />
+            <mxPoint x="828.35" y="-956" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-111" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;agree/aim/ask/doose/decide/pretend/expect/hope/learn/intend/manage/fail/offer/promise/wish/want......&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="1477.5" y="-986" width="710" height="38" as="geometry" />
+          <mxGeometry x="1448.5" y="-986" width="710" height="38" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-112" value="I have a dream to be a director 同位语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="876.77" y="-888" width="283.23" height="20" as="geometry" />
+          <mxGeometry x="847.77" y="-888" width="283.23" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-113" value="I have a dream to finish 定语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="877.1" y="-920" width="262.9" height="20" as="geometry" />
+          <mxGeometry x="848.1" y="-920" width="262.9" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-114" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-113" target="TC2v2hh1t1ES2_4kBCAJ-77">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="877.35" y="-866" as="sourcePoint" />
-            <mxPoint x="919.3499999999999" y="-877" as="targetPoint" />
+            <mxPoint x="848.35" y="-866" as="sourcePoint" />
+            <mxPoint x="890.3499999999999" y="-877" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-115" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-112" target="TC2v2hh1t1ES2_4kBCAJ-77">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1014.35" y="-886" as="sourcePoint" />
-            <mxPoint x="919.3499999999999" y="-877" as="targetPoint" />
+            <mxPoint x="985.35" y="-886" as="sourcePoint" />
+            <mxPoint x="890.3499999999999" y="-877" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-116" value="结果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="876.77" y="-819" width="45.5" height="20" as="geometry" />
+          <mxGeometry x="847.77" y="-819" width="45.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-117" value="目的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="876.77" y="-860" width="34.5" height="20" as="geometry" />
+          <mxGeometry x="847.77" y="-860" width="34.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-118" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-117" target="TC2v2hh1t1ES2_4kBCAJ-76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="887.35" y="-784" as="sourcePoint" />
-            <mxPoint x="868.81" y="-811.9999999999991" as="targetPoint" />
+            <mxPoint x="858.35" y="-784" as="sourcePoint" />
+            <mxPoint x="839.81" y="-811.9999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-119" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-116" target="TC2v2hh1t1ES2_4kBCAJ-76">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1024.35" y="-804" as="sourcePoint" />
-            <mxPoint x="868.81" y="-811.9999999999991" as="targetPoint" />
+            <mxPoint x="995.3499999999999" y="-804" as="sourcePoint" />
+            <mxPoint x="839.81" y="-811.9999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-122" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="TC2v2hh1t1ES2_4kBCAJ-123" source="TC2v2hh1t1ES2_4kBCAJ-117">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="931.75" y="-832" as="sourcePoint" />
-            <mxPoint x="1670.75" y="-383" as="targetPoint" />
+            <mxPoint x="902.75" y="-832" as="sourcePoint" />
+            <mxPoint x="1641.75" y="-383" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-123" value="I got up at 4am in order to watch the football match" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="955.5" y="-865.5" width="344.5" height="31" as="geometry" />
+          <mxGeometry x="926.5" y="-865.5" width="344.5" height="31" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-125" value="too...to/enough...to" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="941.75" y="-799" width="148.25" height="20" as="geometry" />
+          <mxGeometry x="912.75" y="-799" width="148.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-126" value="(only to do 不想看到,出乎意料的)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="942.08" y="-831" width="237.92" height="20" as="geometry" />
+          <mxGeometry x="913.08" y="-831" width="237.92" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-127" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-126" target="TC2v2hh1t1ES2_4kBCAJ-116">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1102.54" y="-752" as="sourcePoint" />
-            <mxPoint x="1084.19" y="-780" as="targetPoint" />
+            <mxPoint x="1073.54" y="-752" as="sourcePoint" />
+            <mxPoint x="1055.19" y="-780" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-128" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-125" target="TC2v2hh1t1ES2_4kBCAJ-116">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1239.54" y="-772" as="sourcePoint" />
-            <mxPoint x="1084" y="-779.9999999999991" as="targetPoint" />
+            <mxPoint x="1210.54" y="-772" as="sourcePoint" />
+            <mxPoint x="1055" y="-779.9999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-130" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-126" target="TC2v2hh1t1ES2_4kBCAJ-132">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1360" y="-770" as="sourcePoint" />
-            <mxPoint x="1290" y="-820" as="targetPoint" />
+            <mxPoint x="1331" y="-770" as="sourcePoint" />
+            <mxPoint x="1261" y="-820" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-131" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-125" target="TC2v2hh1t1ES2_4kBCAJ-133">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1370" y="-760" as="sourcePoint" />
-            <mxPoint x="1390" y="-789" as="targetPoint" />
+            <mxPoint x="1341" y="-760" as="sourcePoint" />
+            <mxPoint x="1361" y="-789" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-132" value="He hurried to the station,only to find the train had left." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1302.57" y="-831.5" width="337.43" height="20" as="geometry" />
+          <mxGeometry x="1273.57" y="-831.5" width="337.43" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-133" value="She is too young to work in the factory" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1204.77" y="-799" width="283.23" height="20" as="geometry" />
+          <mxGeometry x="1175.77" y="-799" width="283.23" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-136" value="及物动词+宾语/介词+宾语" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="880" y="-739.5" width="180" height="27" as="geometry" />
+          <mxGeometry x="851" y="-739.5" width="180" height="27" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-137" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-140" target="TC2v2hh1t1ES2_4kBCAJ-136">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1032.3799999999999" y="-574" as="sourcePoint" />
-            <mxPoint x="1003.3799999999997" y="-761" as="targetPoint" />
+            <mxPoint x="1003.3799999999999" y="-574" as="sourcePoint" />
+            <mxPoint x="974.3799999999997" y="-761" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-138" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-139" target="TC2v2hh1t1ES2_4kBCAJ-140">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="961.3799999999997" y="-461" as="sourcePoint" />
-            <mxPoint x="966.3799999999997" y="-491" as="targetPoint" />
+            <mxPoint x="932.3799999999997" y="-461" as="sourcePoint" />
+            <mxPoint x="937.3799999999997" y="-491" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-139" value="直接作宾语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1366.25" y="-779" width="172" height="20" as="geometry" />
+          <mxGeometry x="1337.25" y="-779" width="172" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-140" value="常见的用不定式作宾补的动词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1092" y="-759" width="238" height="28" as="geometry" />
+          <mxGeometry x="1063" y="-759" width="238" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-141" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TC2v2hh1t1ES2_4kBCAJ-136" source="TC2v2hh1t1ES2_4kBCAJ-79">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1023.3799999999997" y="-522" as="targetPoint" />
-            <mxPoint x="919.1299999999998" y="-729" as="sourcePoint" />
+            <mxPoint x="994.3799999999997" y="-522" as="targetPoint" />
+            <mxPoint x="890.1299999999998" y="-729" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-142" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-143" target="TC2v2hh1t1ES2_4kBCAJ-140">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1005.3799999999999" y="-474" as="sourcePoint" />
-            <mxPoint x="992.3799999999997" y="-561" as="targetPoint" />
+            <mxPoint x="976.3799999999999" y="-474" as="sourcePoint" />
+            <mxPoint x="963.3799999999997" y="-561" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-143" value="宾语从句省略的结果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1362.5" y="-753" width="191" height="18" as="geometry" />
+          <mxGeometry x="1333.5" y="-753" width="191" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-144" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-147" target="TC2v2hh1t1ES2_4kBCAJ-140">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1005.3799999999999" y="-474" as="sourcePoint" />
-            <mxPoint x="990.3799999999997" y="-629" as="targetPoint" />
+            <mxPoint x="976.3799999999999" y="-474" as="sourcePoint" />
+            <mxPoint x="961.3799999999997" y="-629" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-147" value="加宾补,作形式宾语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1363.75" y="-730" width="188.25" height="28" as="geometry" />
+          <mxGeometry x="1334.75" y="-730" width="188.25" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-148" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-149" target="TC2v2hh1t1ES2_4kBCAJ-136">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1052.3799999999999" y="-374" as="sourcePoint" />
-            <mxPoint x="1027.3799999999997" y="-629" as="targetPoint" />
+            <mxPoint x="1023.3799999999999" y="-374" as="sourcePoint" />
+            <mxPoint x="998.3799999999997" y="-629" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-149" value="介+宾" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1088" y="-702" width="68.12" height="18" as="geometry" />
+          <mxGeometry x="1059" y="-702" width="68.12" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-150" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-149" target="TC2v2hh1t1ES2_4kBCAJ-151">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1336.12" y="-679" as="sourcePoint" />
-            <mxPoint x="1336.12" y="-669" as="targetPoint" />
+            <mxPoint x="1307.12" y="-679" as="sourcePoint" />
+            <mxPoint x="1307.12" y="-669" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-151" value="but/except(to可能会被省略)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1193.3799999999999" y="-702" width="252.74" height="18" as="geometry" />
+          <mxGeometry x="1164.3799999999999" y="-702" width="252.74" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-152" value="做补语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="760" y="-641.5" width="70" height="18" as="geometry" />
+          <mxGeometry x="731" y="-641.5" width="70" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-153" value="I want you to buy a car" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="870" y="-645.5" width="180" height="27" as="geometry" />
+          <mxGeometry x="841" y="-645.5" width="180" height="27" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-154" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-157" target="TC2v2hh1t1ES2_4kBCAJ-153">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1022.3799999999999" y="-480" as="sourcePoint" />
-            <mxPoint x="993.3799999999997" y="-667" as="targetPoint" />
+            <mxPoint x="993.3799999999999" y="-480" as="sourcePoint" />
+            <mxPoint x="964.3799999999997" y="-667" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-155" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-156" target="TC2v2hh1t1ES2_4kBCAJ-157">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="951.3799999999997" y="-367" as="sourcePoint" />
-            <mxPoint x="956.3799999999997" y="-397" as="targetPoint" />
+            <mxPoint x="922.3799999999997" y="-367" as="sourcePoint" />
+            <mxPoint x="927.3799999999997" y="-397" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-156" value="want/advise/allow/ask/command/encourage/forbid/invite/require/persuade/cause/show/teach/tell" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="-675" width="613.75" height="20" as="geometry" />
+          <mxGeometry x="1311" y="-675" width="613.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-157" value="常见的可用不定式做宾语的动词(vt)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1082" y="-665" width="238" height="28" as="geometry" />
+          <mxGeometry x="1053" y="-665" width="238" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-158" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-152" target="TC2v2hh1t1ES2_4kBCAJ-153">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1013.3799999999997" y="-428" as="targetPoint" />
-            <mxPoint x="909.1299999999998" y="-635" as="sourcePoint" />
+            <mxPoint x="984.3799999999997" y="-428" as="targetPoint" />
+            <mxPoint x="880.1299999999998" y="-635" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-161" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-162" target="TC2v2hh1t1ES2_4kBCAJ-157">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="995.3799999999999" y="-380" as="sourcePoint" />
-            <mxPoint x="980.3799999999997" y="-535" as="targetPoint" />
+            <mxPoint x="966.3799999999999" y="-380" as="sourcePoint" />
+            <mxPoint x="951.3799999999997" y="-535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-162" value="宾补被动变主补" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1340" y="-646.5" width="188.25" height="28" as="geometry" />
+          <mxGeometry x="1311" y="-646.5" width="188.25" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-163" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-164" target="TC2v2hh1t1ES2_4kBCAJ-153">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1042.3799999999999" y="-280" as="sourcePoint" />
-            <mxPoint x="1017.3799999999997" y="-535" as="targetPoint" />
+            <mxPoint x="1013.3799999999999" y="-280" as="sourcePoint" />
+            <mxPoint x="988.3799999999997" y="-535" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-164" value="主动省to,被动还原" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1078" y="-608" width="122" height="18" as="geometry" />
+          <mxGeometry x="1049" y="-608" width="122" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-165" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-164" target="TC2v2hh1t1ES2_4kBCAJ-166">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1326.12" y="-585" as="sourcePoint" />
-            <mxPoint x="1326.12" y="-575" as="targetPoint" />
+            <mxPoint x="1297.12" y="-585" as="sourcePoint" />
+            <mxPoint x="1297.12" y="-575" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-166" value="一感:feel;二听:hear/listen;三让:have/let/make;四看:see/notice/observe/watch" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1247.63" y="-608" width="552.37" height="18" as="geometry" />
+          <mxGeometry x="1218.63" y="-608" width="552.37" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-167" value="时态/语态" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="685.25" y="-515" width="76.5" height="27" as="geometry" />
+          <mxGeometry x="656.25" y="-515" width="76.5" height="27" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-168" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-171" target="TC2v2hh1t1ES2_4kBCAJ-167">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="864.8799999999999" y="-368.5" as="sourcePoint" />
-            <mxPoint x="835.8799999999997" y="-555.5" as="targetPoint" />
+            <mxPoint x="835.8799999999999" y="-368.5" as="sourcePoint" />
+            <mxPoint x="806.8799999999997" y="-555.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-169" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-170" target="TC2v2hh1t1ES2_4kBCAJ-171">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="670.8799999999997" y="-255.5" as="sourcePoint" />
-            <mxPoint x="675.8799999999997" y="-285.5" as="targetPoint" />
+            <mxPoint x="641.8799999999997" y="-255.5" as="sourcePoint" />
+            <mxPoint x="646.8799999999997" y="-285.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-170" value="一般:to do [动作发生再谓语动词之后]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="875.75" y="-585" width="261.25" height="20" as="geometry" />
+          <mxGeometry x="846.75" y="-585" width="261.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-171" value="主动" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="795.1" y="-547" width="44.5" height="28" as="geometry" />
+          <mxGeometry x="766.1" y="-547" width="44.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-172" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-173" target="TC2v2hh1t1ES2_4kBCAJ-171">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="714.8799999999999" y="-268.5" as="sourcePoint" />
-            <mxPoint x="701.8799999999997" y="-355.5" as="targetPoint" />
+            <mxPoint x="685.8799999999999" y="-268.5" as="sourcePoint" />
+            <mxPoint x="672.8799999999997" y="-355.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-173" value="完成:to have done [动作发生在谓语动词之前]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="872" y="-556" width="405" height="18" as="geometry" />
+          <mxGeometry x="843" y="-556" width="405" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-174" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-175" target="TC2v2hh1t1ES2_4kBCAJ-171">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="714.8799999999999" y="-268.5" as="sourcePoint" />
-            <mxPoint x="699.8799999999997" y="-423.5" as="targetPoint" />
+            <mxPoint x="685.8799999999999" y="-268.5" as="sourcePoint" />
+            <mxPoint x="670.8799999999997" y="-423.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-175" value="完成进行:to have been doing [动作从过去发生一直持续到现在]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="872.75" y="-507" width="404.25" height="28" as="geometry" />
+          <mxGeometry x="843.75" y="-507" width="404.25" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-176" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TC2v2hh1t1ES2_4kBCAJ-167" source="TC2v2hh1t1ES2_4kBCAJ-179">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="920.5" y="-487.5" as="sourcePoint" />
-            <mxPoint x="859.8799999999997" y="-423.5" as="targetPoint" />
+            <mxPoint x="891.5" y="-487.5" as="sourcePoint" />
+            <mxPoint x="830.8799999999997" y="-423.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-179" value="被动" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="797.25" y="-465" width="39.75" height="20" as="geometry" />
+          <mxGeometry x="768.25" y="-465" width="39.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-182" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-183" target="TC2v2hh1t1ES2_4kBCAJ-171">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="724.8799999999999" y="-258.5" as="sourcePoint" />
-            <mxPoint x="851" y="-536.4999999999991" as="targetPoint" />
+            <mxPoint x="695.8799999999999" y="-258.5" as="sourcePoint" />
+            <mxPoint x="822" y="-536.4999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-183" value="进行:to be doing [动作与谓语动词同时发生]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="873.75" y="-535.5" width="293.25" height="28" as="geometry" />
+          <mxGeometry x="844.75" y="-535.5" width="293.25" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-184" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-185" target="TC2v2hh1t1ES2_4kBCAJ-179">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="680.8799999999997" y="-95.5" as="sourcePoint" />
-            <mxPoint x="849.5999999999999" y="-373" as="targetPoint" />
+            <mxPoint x="651.8799999999997" y="-95.5" as="sourcePoint" />
+            <mxPoint x="820.5999999999999" y="-373" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-185" value="一般式: to be done [动作发生在谓语动词之后]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="857.75" y="-477" width="359.25" height="20" as="geometry" />
+          <mxGeometry x="828.75" y="-477" width="359.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-186" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-187" target="TC2v2hh1t1ES2_4kBCAJ-179">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="724.8799999999999" y="-108.5" as="sourcePoint" />
-            <mxPoint x="849.5999999999999" y="-373" as="targetPoint" />
+            <mxPoint x="695.8799999999999" y="-108.5" as="sourcePoint" />
+            <mxPoint x="820.5999999999999" y="-373" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-187" value="完成式: to have been done" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="857" y="-446" width="290" height="18" as="geometry" />
+          <mxGeometry x="828" y="-446" width="290" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-188" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-189" target="TC2v2hh1t1ES2_4kBCAJ-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="863" y="-368" as="sourcePoint" />
-            <mxPoint x="862.5999999999999" y="-373" as="targetPoint" />
+            <mxPoint x="834" y="-368" as="sourcePoint" />
+            <mxPoint x="833.5999999999999" y="-373" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-189" value="完成进行:to have been doing [动作从过去发生一直持续到现在]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="804.87" y="-392" width="404.25" height="28" as="geometry" />
+          <mxGeometry x="775.87" y="-392" width="404.25" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-190" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-191" target="TC2v2hh1t1ES2_4kBCAJ-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="747.8799999999999" y="-98.5" as="sourcePoint" />
-            <mxPoint x="862.5999999999999" y="-373" as="targetPoint" />
+            <mxPoint x="718.8799999999999" y="-98.5" as="sourcePoint" />
+            <mxPoint x="833.5999999999999" y="-373" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-191" value="进行:to be doing [动作与谓语动词同时发生]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="796.75" y="-417" width="293.25" height="28" as="geometry" />
+          <mxGeometry x="767.75" y="-417" width="293.25" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-192" value="进行:to be doing [动作与谓语动词同时发生]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="799" y="-361" width="293.25" height="28" as="geometry" />
+          <mxGeometry x="770" y="-361" width="293.25" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-193" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-192" target="TC2v2hh1t1ES2_4kBCAJ-40">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="873" y="-358" as="sourcePoint" />
-            <mxPoint x="852" y="-381" as="targetPoint" />
+            <mxPoint x="844" y="-358" as="sourcePoint" />
+            <mxPoint x="823" y="-381" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-196" value="动名词:确定(doing)[主宾表]" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="499" y="43" width="193" height="27" as="geometry" />
+          <mxGeometry x="405.5" y="43" width="193" height="27" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-197" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-205" target="TC2v2hh1t1ES2_4kBCAJ-196">
           <mxGeometry relative="1" as="geometry">
@@ -4644,7 +4644,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-200" value="逻辑主语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="724" y="235" width="79" height="18" as="geometry" />
+          <mxGeometry x="668" y="235" width="79" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-201" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-204" target="TC2v2hh1t1ES2_4kBCAJ-196">
           <mxGeometry relative="1" as="geometry">
@@ -4654,354 +4654,408 @@
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-202" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-204" target="TC2v2hh1t1ES2_4kBCAJ-203">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="990.8800000000001" y="-1331" as="sourcePoint" />
-            <mxPoint x="1114.88" y="-1328" as="targetPoint" />
+            <mxPoint x="934.8800000000001" y="-1331" as="sourcePoint" />
+            <mxPoint x="1058.88" y="-1328" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-203" value="直接加not" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="851.63" y="372" width="101.37" height="21" as="geometry" />
+          <mxGeometry x="795.63" y="372" width="101.37" height="21" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-204" value="否定" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="724" y="374" width="64.5" height="16" as="geometry" />
+          <mxGeometry x="668" y="374" width="64.5" height="16" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-205" value="作成份" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="724" y="-258" width="55" height="27" as="geometry" />
+          <mxGeometry x="668" y="-258" width="55" height="27" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-206" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-209" target="TC2v2hh1t1ES2_4kBCAJ-205">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="803" y="-66" as="sourcePoint" />
-            <mxPoint x="774" y="-253" as="targetPoint" />
+            <mxPoint x="747" y="-66" as="sourcePoint" />
+            <mxPoint x="718" y="-253" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-207" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-208" target="TC2v2hh1t1ES2_4kBCAJ-205">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="769" y="47" as="sourcePoint" />
-            <mxPoint x="774" y="17" as="targetPoint" />
+            <mxPoint x="713" y="47" as="sourcePoint" />
+            <mxPoint x="718" y="17" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-208" value="作宾语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="798.87" y="-200" width="50" height="20" as="geometry" />
+          <mxGeometry x="742.87" y="-200" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-209" value="做主/表语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="801" y="-298" width="89" height="28" as="geometry" />
+          <mxGeometry x="745" y="-298" width="89" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-211" value="介+doing" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="879.25" y="-130" width="87" height="18" as="geometry" />
+          <mxGeometry x="823.25" y="-130" width="87" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-212" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-215" target="TC2v2hh1t1ES2_4kBCAJ-308">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="813" y="34" as="sourcePoint" />
-            <mxPoint x="798" y="-121" as="targetPoint" />
+            <mxPoint x="757" y="34" as="sourcePoint" />
+            <mxPoint x="742" y="-121" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-215" value="Be reduced to" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1432.23" y="-112" width="152.25" height="18" as="geometry" />
+          <mxGeometry x="1376.23" y="-112" width="152.25" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-220" value="vt+doing" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="870.75" y="-260" width="69.25" height="20" as="geometry" />
+          <mxGeometry x="814.75" y="-260" width="69.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-221" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-220" target="TC2v2hh1t1ES2_4kBCAJ-208">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="851" y="-226" as="sourcePoint" />
-            <mxPoint x="786" y="17.5" as="targetPoint" />
+            <mxPoint x="795" y="-226" as="sourcePoint" />
+            <mxPoint x="730" y="17.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-222" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-211" target="TC2v2hh1t1ES2_4kBCAJ-208">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="870.4200000000001" y="-222" as="sourcePoint" />
-            <mxPoint x="911" y="-226" as="targetPoint" />
+            <mxPoint x="814.4200000000001" y="-222" as="sourcePoint" />
+            <mxPoint x="855" y="-226" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-223" value="常见省略:have diffculty/fun/pleasure/a good time/trouble/problem/a diffcult time/a had time(in) sth. spend time/money(in)doing sth." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="989" y="-30" width="810.12" height="20" as="geometry" />
+          <mxGeometry x="933" y="-30" width="810.12" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-224" value="in/to+doing:in 有时候会省略,to容易被认为是不定式" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="989" y="-173" width="335.5" height="20" as="geometry" />
+          <mxGeometry x="933" y="-173" width="335.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-225" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-224" target="TC2v2hh1t1ES2_4kBCAJ-211">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="956.3499999999999" y="-184" as="sourcePoint" />
-            <mxPoint x="996.3499999999999" y="-194" as="targetPoint" />
+            <mxPoint x="900.3499999999999" y="-184" as="sourcePoint" />
+            <mxPoint x="940.3499999999999" y="-194" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-226" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-223" target="TC2v2hh1t1ES2_4kBCAJ-211">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1093.35" y="-204" as="sourcePoint" />
-            <mxPoint x="996.3499999999999" y="-194" as="targetPoint" />
+            <mxPoint x="1037.35" y="-204" as="sourcePoint" />
+            <mxPoint x="940.3499999999999" y="-194" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-228" value="When it comes to" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1431" y="-230" width="149" height="20" as="geometry" />
+          <mxGeometry x="1375" y="-230" width="149" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-229" value="Look forward to" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1431" y="-200" width="109" height="20" as="geometry" />
+          <mxGeometry x="1375" y="-200" width="109" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-230" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-229" target="TC2v2hh1t1ES2_4kBCAJ-308">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="918.3499999999999" y="-90" as="sourcePoint" />
-            <mxPoint x="960.3499999999999" y="-101" as="targetPoint" />
+            <mxPoint x="862.3499999999999" y="-90" as="sourcePoint" />
+            <mxPoint x="904.3499999999999" y="-101" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-231" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-228" target="TC2v2hh1t1ES2_4kBCAJ-308">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1055.35" y="-110" as="sourcePoint" />
-            <mxPoint x="960.3499999999999" y="-101" as="targetPoint" />
+            <mxPoint x="999.3499999999999" y="-110" as="sourcePoint" />
+            <mxPoint x="904.3499999999999" y="-101" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-233" value="Devote oneself to" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1431" y="-140" width="153.48" height="20" as="geometry" />
+          <mxGeometry x="1375" y="-140" width="153.48" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-234" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-233" target="TC2v2hh1t1ES2_4kBCAJ-308">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="928.3499999999999" y="-8" as="sourcePoint" />
-            <mxPoint x="909.81" y="-35.99999999999909" as="targetPoint" />
+            <mxPoint x="872.3499999999999" y="-8" as="sourcePoint" />
+            <mxPoint x="853.81" y="-35.99999999999909" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-238" value="Be/get used to" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1431" y="-171" width="148.25" height="20" as="geometry" />
+          <mxGeometry x="1375" y="-171" width="148.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-239" value="Stick to" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1433" y="-84" width="147" height="20" as="geometry" />
+          <mxGeometry x="1377" y="-84" width="147" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-240" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-239" target="TC2v2hh1t1ES2_4kBCAJ-308">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1143.54" y="24" as="sourcePoint" />
-            <mxPoint x="1125.19" y="-4" as="targetPoint" />
+            <mxPoint x="1087.54" y="24" as="sourcePoint" />
+            <mxPoint x="1069.19" y="-4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-241" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-238" target="TC2v2hh1t1ES2_4kBCAJ-308">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1280.54" y="4" as="sourcePoint" />
-            <mxPoint x="1125" y="-3.9999999999990905" as="targetPoint" />
+            <mxPoint x="1224.54" y="4" as="sourcePoint" />
+            <mxPoint x="1069" y="-3.9999999999990905" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-273" value="时态/语态" style="text;strokeColor=none;fillColor=none;html=1;fontSize=14;fontStyle=0;verticalAlign=middle;align=left;rounded=1;" vertex="1" parent="1">
-          <mxGeometry x="724" y="43" width="76.5" height="27" as="geometry" />
+          <mxGeometry x="668" y="43" width="76.5" height="27" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-274" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-277" target="TC2v2hh1t1ES2_4kBCAJ-273">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="945.7499999999999" y="218.5" as="sourcePoint" />
-            <mxPoint x="916.7499999999997" y="31.5" as="targetPoint" />
+            <mxPoint x="889.7499999999999" y="218.5" as="sourcePoint" />
+            <mxPoint x="860.7499999999997" y="31.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-275" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-276" target="TC2v2hh1t1ES2_4kBCAJ-277">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="701.5299999999996" y="311.5" as="sourcePoint" />
-            <mxPoint x="706.5299999999996" y="281.5" as="targetPoint" />
+            <mxPoint x="645.5299999999996" y="311.5" as="sourcePoint" />
+            <mxPoint x="650.5299999999996" y="281.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-276" value="一般式:doing[一般]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="890.78" y="10" width="202.22" height="20" as="geometry" />
+          <mxGeometry x="834.78" y="10" width="202.22" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-277" value="主动" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="825.7499999999999" y="20" width="44.5" height="28" as="geometry" />
+          <mxGeometry x="769.7499999999999" y="20" width="44.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-278" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-279" target="TC2v2hh1t1ES2_4kBCAJ-277">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="745.5299999999999" y="298.5" as="sourcePoint" />
-            <mxPoint x="732.5299999999996" y="211.5" as="targetPoint" />
+            <mxPoint x="689.5299999999999" y="298.5" as="sourcePoint" />
+            <mxPoint x="676.5299999999996" y="211.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-279" value="完成式:having done[之前]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="890.78" y="40" width="212.22" height="18" as="geometry" />
+          <mxGeometry x="834.78" y="40" width="212.22" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-282" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-283" target="TC2v2hh1t1ES2_4kBCAJ-273">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1001.37" y="99.5" as="sourcePoint" />
-            <mxPoint x="940.7499999999997" y="163.5" as="targetPoint" />
+            <mxPoint x="945.37" y="99.5" as="sourcePoint" />
+            <mxPoint x="884.7499999999997" y="163.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-283" value="被动" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="821" y="80" width="39.75" height="20" as="geometry" />
+          <mxGeometry x="765" y="80" width="39.75" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-286" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-287" target="TC2v2hh1t1ES2_4kBCAJ-283">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="704.6299999999997" y="449.5" as="sourcePoint" />
-            <mxPoint x="873.3499999999999" y="172" as="targetPoint" />
+            <mxPoint x="648.6299999999997" y="449.5" as="sourcePoint" />
+            <mxPoint x="817.3499999999999" y="172" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-287" value="一般式:being done[一般]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="881.5" y="68" width="201.5" height="20" as="geometry" />
+          <mxGeometry x="825.5" y="68" width="201.5" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-288" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-289" target="TC2v2hh1t1ES2_4kBCAJ-283">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="748.6299999999999" y="436.5" as="sourcePoint" />
-            <mxPoint x="873.3499999999999" y="172" as="targetPoint" />
+            <mxPoint x="692.6299999999999" y="436.5" as="sourcePoint" />
+            <mxPoint x="817.3499999999999" y="172" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-289" value="完成式:having been done [之前]" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="880.75" y="99" width="212.25" height="18" as="geometry" />
+          <mxGeometry x="824.75" y="99" width="212.25" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-290" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-291" target="TC2v2hh1t1ES2_4kBCAJ-200">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="904" y="219" as="sourcePoint" />
-            <mxPoint x="903.5999999999999" y="214" as="targetPoint" />
+            <mxPoint x="848" y="219" as="sourcePoint" />
+            <mxPoint x="847.5999999999999" y="214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-291" value="宾格(人称代词):作宾语的情况下" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="841" y="210" width="229" height="28" as="geometry" />
+          <mxGeometry x="785" y="210" width="229" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-292" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-293" target="TC2v2hh1t1ES2_4kBCAJ-200">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="788.8799999999999" y="488.5" as="sourcePoint" />
-            <mxPoint x="903.5999999999999" y="214" as="targetPoint" />
+            <mxPoint x="732.8799999999999" y="488.5" as="sourcePoint" />
+            <mxPoint x="847.5999999999999" y="214" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-293" value="形物代/名词所有格" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="838" y="150" width="158" height="28" as="geometry" />
+          <mxGeometry x="782" y="150" width="158" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-294" value="普通格" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="844" y="253" width="65" height="28" as="geometry" />
+          <mxGeometry x="788" y="253" width="65" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-295" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-294" target="TC2v2hh1t1ES2_4kBCAJ-200">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="914" y="229" as="sourcePoint" />
-            <mxPoint x="893" y="206" as="targetPoint" />
+            <mxPoint x="858" y="229" as="sourcePoint" />
+            <mxPoint x="837" y="206" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-296" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#ffcccc;strokeColor=#36393d;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-297" target="TC2v2hh1t1ES2_4kBCAJ-298">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="995.1299999999997" y="-82" as="sourcePoint" />
-            <mxPoint x="1000.1299999999997" y="-112" as="targetPoint" />
+            <mxPoint x="966.1299999999997" y="-82" as="sourcePoint" />
+            <mxPoint x="971.1299999999997" y="-112" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-297" value="一般式与谓语动词同时发生" style="text;html=1;strokeColor=#36393d;fillColor=#ffcccc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1388.75" y="-400" width="172" height="28" as="geometry" />
+          <mxGeometry x="1359.75" y="-400" width="172" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-298" value="注意" style="text;html=1;strokeColor=#36393d;fillColor=#ffcccc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1325.75" y="-380" width="38" height="28" as="geometry" />
+          <mxGeometry x="1296.75" y="-380" width="38" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-301" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;fillColor=#ffcccc;strokeColor=#36393d;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-302" target="TC2v2hh1t1ES2_4kBCAJ-298">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1039.1299999999999" y="-95" as="sourcePoint" />
-            <mxPoint x="1024.1299999999997" y="-250" as="targetPoint" />
+            <mxPoint x="1010.1299999999999" y="-95" as="sourcePoint" />
+            <mxPoint x="995.1299999999997" y="-250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-302" value="进行式发生在谓语动词之前" style="text;html=1;strokeColor=#36393d;fillColor=#ffcccc;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=1;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1388.75" y="-352" width="188.25" height="30" as="geometry" />
+          <mxGeometry x="1359.75" y="-352" width="188.25" height="30" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-303" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TC2v2hh1t1ES2_4kBCAJ-304">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="900.0000000000005" y="-283.9999999999991" as="sourcePoint" />
-            <mxPoint x="1150" y="-330" as="targetPoint" />
+            <mxPoint x="844.0000000000005" y="-283.9999999999991" as="sourcePoint" />
+            <mxPoint x="1094" y="-330" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-304" value="seeing is beliveing" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="925.5" y="-293" width="164.5" height="16" as="geometry" />
+          <mxGeometry x="869.5" y="-293" width="164.5" height="16" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-305" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TC2v2hh1t1ES2_4kBCAJ-306" source="TC2v2hh1t1ES2_4kBCAJ-220">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1080.0000000000005" y="-244.9999999999991" as="sourcePoint" />
-            <mxPoint x="1330" y="-291" as="targetPoint" />
+            <mxPoint x="1024.0000000000005" y="-244.9999999999991" as="sourcePoint" />
+            <mxPoint x="1274" y="-291" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-306" value="&amp;nbsp; &amp;nbsp; &amp;nbsp;常见的作宾语的动词:admit/allow/advise/appreciate/avoid/consider/dislike/encourage/enjoy/escape/feel like/finish/mind/miss/give up" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="970" y="-258" width="960" height="16" as="geometry" />
+          <mxGeometry x="914" y="-258" width="960" height="16" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-307" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TC2v2hh1t1ES2_4kBCAJ-308" source="TC2v2hh1t1ES2_4kBCAJ-224">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1360.0000000000005" y="-213.9999999999991" as="sourcePoint" />
-            <mxPoint x="1610" y="-260" as="targetPoint" />
+            <mxPoint x="1304.0000000000005" y="-213.9999999999991" as="sourcePoint" />
+            <mxPoint x="1554" y="-260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-308" value="&amp;nbsp; to" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1360" y="-171" width="34.5" height="16" as="geometry" />
+          <mxGeometry x="1304" y="-171" width="34.5" height="16" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-313" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-314" target="TC2v2hh1t1ES2_4kBCAJ-228">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1701" y="-210" as="sourcePoint" />
-            <mxPoint x="1664.5" y="-153" as="targetPoint" />
+            <mxPoint x="1645" y="-210" as="sourcePoint" />
+            <mxPoint x="1608.5" y="-153" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-314" value="doing" style="text;html=1;strokeColor=#6F0000;fillColor=#a20025;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="1605.63" y="-169" width="64.37" height="16" as="geometry" />
+          <mxGeometry x="1549.63" y="-169" width="64.37" height="16" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-315" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fillColor=#a20025;strokeColor=#6F0000;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-314" target="TC2v2hh1t1ES2_4kBCAJ-239">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1615.63" y="-148.9999999999991" as="sourcePoint" />
-            <mxPoint x="1559.2400000000002" y="-210" as="targetPoint" />
+            <mxPoint x="1559.63" y="-148.9999999999991" as="sourcePoint" />
+            <mxPoint x="1503.2400000000002" y="-210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-318" value="特殊情况" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="844" y="318" width="75.92" height="28" as="geometry" />
+          <mxGeometry x="788" y="318" width="75.92" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-319" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-318" target="TC2v2hh1t1ES2_4kBCAJ-200">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="916" y="332" as="sourcePoint" />
-            <mxPoint x="807.25" y="312" as="targetPoint" />
+            <mxPoint x="860" y="332" as="sourcePoint" />
+            <mxPoint x="751.25" y="312" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-320" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-293" target="TC2v2hh1t1ES2_4kBCAJ-322">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1190" y="160" as="sourcePoint" />
-            <mxPoint x="1240" y="110" as="targetPoint" />
+            <mxPoint x="1134" y="160" as="sourcePoint" />
+            <mxPoint x="1184" y="110" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-321" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-322" target="TC2v2hh1t1ES2_4kBCAJ-323">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1423" y="178" as="sourcePoint" />
-            <mxPoint x="1473" y="128" as="targetPoint" />
+            <mxPoint x="1367" y="178" as="sourcePoint" />
+            <mxPoint x="1417" y="128" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-322" value="Do you mind (my) smoking here?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1093" y="150" width="247" height="28" as="geometry" />
+          <mxGeometry x="1037" y="150" width="247" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-323" value="作主语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1472" y="150" width="88" height="28" as="geometry" />
+          <mxGeometry x="1416" y="150" width="88" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-324" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TC2v2hh1t1ES2_4kBCAJ-325" source="TC2v2hh1t1ES2_4kBCAJ-291">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="1354.0000000000005" y="224" as="sourcePoint" />
-            <mxPoint x="1487" y="188" as="targetPoint" />
+            <mxPoint x="1298.0000000000005" y="224" as="sourcePoint" />
+            <mxPoint x="1431" y="188" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-325" value="Do you mind me smoking here?" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1124" y="210" width="256" height="28" as="geometry" />
+          <mxGeometry x="1068" y="210" width="256" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-327" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-330" target="TC2v2hh1t1ES2_4kBCAJ-294">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1136" y="463" as="sourcePoint" />
-            <mxPoint x="1107" y="276" as="targetPoint" />
+            <mxPoint x="1080" y="463" as="sourcePoint" />
+            <mxPoint x="1051" y="276" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-328" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-329" target="TC2v2hh1t1ES2_4kBCAJ-294">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1102" y="576" as="sourcePoint" />
-            <mxPoint x="1107" y="546" as="targetPoint" />
+            <mxPoint x="1046" y="576" as="sourcePoint" />
+            <mxPoint x="1051" y="546" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-329" value="I saw him smoking (进行---现在分词)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="927.75" y="271" width="301.25" height="20" as="geometry" />
+          <mxGeometry x="871.75" y="271" width="301.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-330" value="I don&#39;t like (young people) smoking" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="927.25" y="243" width="261.5" height="28" as="geometry" />
+          <mxGeometry x="871.25" y="243" width="261.5" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-331" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-332" target="TC2v2hh1t1ES2_4kBCAJ-318">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1146" y="572" as="sourcePoint" />
-            <mxPoint x="1109" y="354.4999999999991" as="targetPoint" />
+            <mxPoint x="1090" y="572" as="sourcePoint" />
+            <mxPoint x="1053" y="354.4999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-332" value="动名词的逻辑主语没生命,只用普通格" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="941" y="300" width="269" height="18" as="geometry" />
+          <mxGeometry x="885" y="300" width="269" height="18" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-333" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-336" target="TC2v2hh1t1ES2_4kBCAJ-318">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1146" y="572" as="sourcePoint" />
-            <mxPoint x="1109" y="354.4999999999991" as="targetPoint" />
+            <mxPoint x="1090" y="572" as="sourcePoint" />
+            <mxPoint x="1053" y="354.4999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-334" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-335" target="TC2v2hh1t1ES2_4kBCAJ-318">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1112" y="685" as="sourcePoint" />
-            <mxPoint x="1109" y="354.4999999999991" as="targetPoint" />
+            <mxPoint x="1056" y="685" as="sourcePoint" />
+            <mxPoint x="1053" y="354.4999999999991" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-335" value="动名词的逻辑主语是其他代词,常用普通格" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="942.75" y="346" width="287.25" height="20" as="geometry" />
+          <mxGeometry x="886.75" y="346" width="287.25" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-336" value="动名词的逻辑主语较长,只用普通格" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="939.75" y="318" width="280.25" height="28" as="geometry" />
+          <mxGeometry x="883.75" y="318" width="280.25" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-339" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-340" target="TC2v2hh1t1ES2_4kBCAJ-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="936" y="763" as="sourcePoint" />
+            <mxPoint x="709.9199999999996" y="523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-340" value="to do" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="556.72" y="405.5" width="58" height="18" as="geometry" />
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-341" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-344" target="TC2v2hh1t1ES2_4kBCAJ-26">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="936" y="763" as="sourcePoint" />
+            <mxPoint x="709.9199999999996" y="523" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-344" value="doing" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="556" y="441.5" width="60.87" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-345" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TC2v2hh1t1ES2_4kBCAJ-347" source="TC2v2hh1t1ES2_4kBCAJ-340">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="681.47" y="409.5" as="sourcePoint" />
+            <mxPoint x="925.47" y="355.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-346" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-347" target="TC2v2hh1t1ES2_4kBCAJ-348">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1108.4699999999998" y="423.5" as="sourcePoint" />
+            <mxPoint x="1158.4699999999998" y="373.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-347" value="不确定/将来/目的/一次性" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="632.09" y="400.5" width="165.25" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-348" value="agree/aim/ask/choose/decide/expect/fail/manage/intend/hope/learn/offer/pretend/promise/refuse/wish" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="831.72" y="400.5" width="636.25" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-349" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="TC2v2hh1t1ES2_4kBCAJ-351" source="TC2v2hh1t1ES2_4kBCAJ-344">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="811.37" y="460.5" as="sourcePoint" />
+            <mxPoint x="1123.12" y="401.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-350" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-351" target="TC2v2hh1t1ES2_4kBCAJ-352">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1306.12" y="469.5" as="sourcePoint" />
+            <mxPoint x="1356.12" y="419.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-351" value="确定/过去/结果/一直性" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="656.75" y="441.5" width="165.25" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-352" value="admin/appreciate/consider/can&#39;t help/deny/feel like/finish/give up/missed" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="852.74" y="437.5" width="513.13" height="32" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
