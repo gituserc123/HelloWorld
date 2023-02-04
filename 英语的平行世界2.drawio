@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-04T02:47:45.661Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="kdxyV7g2OhJxcK2kLmo2" version="20.8.13" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-04T02:51:39.186Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="Rfq4FxID92nrig4xR_4C" version="20.8.13" type="github" pages="2">
   <diagram id="8ZzaKIilwxp1V5g60k34" name="第 2 页">
     <mxGraphModel dx="607" dy="3102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -4202,11 +4202,11 @@
             <mxPoint x="757" y="-897" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-76" value="关系副词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="833" y="-550" width="187.5" height="20" as="geometry" />
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-76" value="作状语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="796.25" y="-831" width="58.75" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-77" value="关系代词" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="839.38" y="-741" width="188.25" height="28" as="geometry" />
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-77" value="做同位语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="798.19" y="-908" width="60.62" height="28" as="geometry" />
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-78" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-79" target="TC2v2hh1t1ES2_4kBCAJ-67">
           <mxGeometry relative="1" as="geometry">
@@ -4327,6 +4327,69 @@
         </mxCell>
         <mxCell id="TC2v2hh1t1ES2_4kBCAJ-111" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;agree/aim/ask/doose/decide/pretend/expect/hope/learn/intend/manage/fail/offer/promise/wish/want......&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffff88;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="1477.5" y="-986" width="710" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-112" value="I have a dream to be a director 同位语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="876.77" y="-888" width="283.23" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-113" value="I have a dream to finish 定语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="877.1" y="-920" width="262.9" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-114" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-113" target="TC2v2hh1t1ES2_4kBCAJ-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="877.35" y="-866" as="sourcePoint" />
+            <mxPoint x="919.3499999999999" y="-877" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-115" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-112" target="TC2v2hh1t1ES2_4kBCAJ-77">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1014.35" y="-886" as="sourcePoint" />
+            <mxPoint x="919.3499999999999" y="-877" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-116" value="结果" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="874.5" y="-790" width="45.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-117" value="目的" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="876.77" y="-860" width="34.5" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-118" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-117" target="TC2v2hh1t1ES2_4kBCAJ-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="887.35" y="-784" as="sourcePoint" />
+            <mxPoint x="868.81" y="-811.9999999999991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-119" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-116" target="TC2v2hh1t1ES2_4kBCAJ-76">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1024.35" y="-804" as="sourcePoint" />
+            <mxPoint x="868.81" y="-811.9999999999991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-122" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="TC2v2hh1t1ES2_4kBCAJ-123" source="TC2v2hh1t1ES2_4kBCAJ-117">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="931.75" y="-832" as="sourcePoint" />
+            <mxPoint x="1670.75" y="-383" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-123" value="I got up at 4am in order to watch the football match" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="955.5" y="-865.5" width="344.5" height="31" as="geometry" />
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-125" value="I have a dream to be a director 同位语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="936.77" y="-778" width="283.23" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-126" value="I have a dream to finish 定语" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="937.1" y="-810" width="262.9" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-127" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-126">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="937.35" y="-756" as="sourcePoint" />
+            <mxPoint x="918.81" y="-783.9999999999991" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="TC2v2hh1t1ES2_4kBCAJ-128" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="TC2v2hh1t1ES2_4kBCAJ-125">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1074.35" y="-776" as="sourcePoint" />
+            <mxPoint x="918.81" y="-783.9999999999991" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
