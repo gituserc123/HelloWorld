@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-02-05T09:09:42.349Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="DuDMfYmF474sjZJstMnt" version="20.8.16" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-02-05T09:10:57.785Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36" etag="MvPkjMRH3mMxhqn7bNda" version="20.8.16" type="github" pages="2">
   <diagram id="8ZzaKIilwxp1V5g60k34" name="第 2 页">
     <mxGraphModel dx="1434" dy="3102" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -5730,8 +5730,8 @@
             <mxPoint x="590.88" y="701" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2fsYqPW-CfN4F2sJcoY-15" value="一坚持;二命令;三建议;四要求(+that+宾从,动词变为should do)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="679" y="1100" width="394" height="18" as="geometry" />
+        <mxCell id="s2fsYqPW-CfN4F2sJcoY-15" value="逻辑主语(涉及到独立主格)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="680" y="930" width="190" height="18" as="geometry" />
         </mxCell>
         <mxCell id="s2fsYqPW-CfN4F2sJcoY-16" style="edgeStyle=entityRelationEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;fontSize=14;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s2fsYqPW-CfN4F2sJcoY-19" target="s2fsYqPW-CfN4F2sJcoY-12">
           <mxGeometry relative="1" as="geometry">
@@ -5772,14 +5772,14 @@
             <mxPoint x="866" y="892.25" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2fsYqPW-CfN4F2sJcoY-26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s2fsYqPW-CfN4F2sJcoY-15" target="s2fsYqPW-CfN4F2sJcoY-27">
+        <mxCell id="s2fsYqPW-CfN4F2sJcoY-26" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s2fsYqPW-CfN4F2sJcoY-8" target="s2fsYqPW-CfN4F2sJcoY-27">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1093" y="1105" as="sourcePoint" />
             <mxPoint x="1580" y="1348" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="s2fsYqPW-CfN4F2sJcoY-27" value="insist; order/command;advise/suggest/propose;demand/require/request/ask" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="1133" y="1090" width="510" height="38" as="geometry" />
+        <mxCell id="s2fsYqPW-CfN4F2sJcoY-27" value="否定" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="677" y="960" width="56" height="18" as="geometry" />
         </mxCell>
         <mxCell id="s2fsYqPW-CfN4F2sJcoY-28" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="s2fsYqPW-CfN4F2sJcoY-3" target="s2fsYqPW-CfN4F2sJcoY-29">
           <mxGeometry relative="1" as="geometry">
@@ -6044,6 +6044,15 @@
             <mxPoint x="1233.5" y="915.75" as="sourcePoint" />
             <mxPoint x="1200" y="982.25" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="s2fsYqPW-CfN4F2sJcoY-95" value="" style="edgeStyle=entityRelationEdgeStyle;startArrow=none;endArrow=none;segment=10;curved=1;sourcePerimeterSpacing=0;targetPerimeterSpacing=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" target="s2fsYqPW-CfN4F2sJcoY-96" source="s2fsYqPW-CfN4F2sJcoY-27">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="819.4999999999999" y="967.5" as="sourcePoint" />
+            <mxPoint x="1637.63" y="1121" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="s2fsYqPW-CfN4F2sJcoY-96" value="前面加not" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="772.78" y="955" width="77.22" height="28" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
