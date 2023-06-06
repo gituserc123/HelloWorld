@@ -1,4 +1,4 @@
-<mxfile modified="2023-06-06T09:34:36.037Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="GhciAeuDp7Uk1BRoT-M5" version="21.3.7" type="github" pages="2">
+<mxfile modified="2023-06-06T09:38:40.350Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fe7gZ2hqwZDBFSzFuvUF" version="21.3.7" type="github" pages="2">
   <diagram id="b4Qg0ncD_ZD2A_eq-Xj0" name="第 1 页">
     <mxGraphModel dx="1674" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -977,12 +977,12 @@
             <mxRectangle width="110" height="76" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y7G9pSPF3vO1bCsNFnEQ-63" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="y7G9pSPF3vO1bCsNFnEQ-56">
+        <mxCell id="y7G9pSPF3vO1bCsNFnEQ-63" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;zip [zɪp] 拉链&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;zoo [zuː] 动物园&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="y7G9pSPF3vO1bCsNFnEQ-56">
           <mxGeometry x="666" width="110" height="76" as="geometry">
             <mxRectangle width="110" height="76" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y7G9pSPF3vO1bCsNFnEQ-64" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="y7G9pSPF3vO1bCsNFnEQ-56">
+        <mxCell id="y7G9pSPF3vO1bCsNFnEQ-64" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;draw [drɔː] 绘画&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;dress [dres] 衣服&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="y7G9pSPF3vO1bCsNFnEQ-56">
           <mxGeometry x="776" width="130" height="76" as="geometry">
             <mxRectangle width="130" height="76" as="alternateBounds" />
           </mxGeometry>
