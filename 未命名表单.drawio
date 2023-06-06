@@ -1,4 +1,4 @@
-<mxfile modified="2023-06-06T08:49:22.756Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="cYr1gBA9jk1RKii4GUAz" version="21.3.7" type="github" pages="2">
+<mxfile modified="2023-06-06T08:51:15.403Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="fhII15Vqi3sfxyDcApNi" version="21.3.7" type="github" pages="2">
   <diagram id="b4Qg0ncD_ZD2A_eq-Xj0" name="第 1 页">
     <mxGraphModel dx="1674" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -794,7 +794,7 @@
             <mxRectangle width="144" height="76" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y7G9pSPF3vO1bCsNFnEQ-24" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="y7G9pSPF3vO1bCsNFnEQ-14">
+        <mxCell id="y7G9pSPF3vO1bCsNFnEQ-24" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;sheep [ʃiːp] 羊&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;fish [fɪʃ] 鱼&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" vertex="1" parent="y7G9pSPF3vO1bCsNFnEQ-14">
           <mxGeometry x="1086" width="110" height="76" as="geometry">
             <mxRectangle width="110" height="76" as="alternateBounds" />
           </mxGeometry>
