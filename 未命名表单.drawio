@@ -1,4 +1,4 @@
-<mxfile modified="2023-06-07T01:57:06.677Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="mncA7uFhRZvtIF_MkvsY" version="21.3.7" type="github" pages="2">
+<mxfile modified="2023-06-07T02:09:04.777Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="N2Om2JcGkNYY6qWEnY8E" version="21.3.7" type="github" pages="2">
   <diagram id="b4Qg0ncD_ZD2A_eq-Xj0" name="第 1 页">
     <mxGraphModel dx="1674" dy="764" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1139,22 +1139,22 @@
             <mxRectangle width="120" height="85" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y7G9pSPF3vO1bCsNFnEQ-97" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="y7G9pSPF3vO1bCsNFnEQ-91" vertex="1">
+        <mxCell id="y7G9pSPF3vO1bCsNFnEQ-97" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;lamp [læmp] 灯&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;look [lʊk] 看&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="y7G9pSPF3vO1bCsNFnEQ-91" vertex="1">
           <mxGeometry x="598" width="119" height="85" as="geometry">
             <mxRectangle width="119" height="85" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y7G9pSPF3vO1bCsNFnEQ-98" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="y7G9pSPF3vO1bCsNFnEQ-91" vertex="1">
+        <mxCell id="y7G9pSPF3vO1bCsNFnEQ-98" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;rabbit [ˈræbɪt] 兔子&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;run [rʌn] 跑步&lt;/font&gt;&amp;nbsp;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="y7G9pSPF3vO1bCsNFnEQ-91" vertex="1">
           <mxGeometry x="717" width="120" height="85" as="geometry">
             <mxRectangle width="120" height="85" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y7G9pSPF3vO1bCsNFnEQ-99" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="y7G9pSPF3vO1bCsNFnEQ-91" vertex="1">
+        <mxCell id="y7G9pSPF3vO1bCsNFnEQ-99" value="&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;watch [wɒtʃ] 手表&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;water [ˈwɔːtə(r)] 水&lt;/font&gt;&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="y7G9pSPF3vO1bCsNFnEQ-91" vertex="1">
           <mxGeometry x="837" width="119" height="85" as="geometry">
             <mxRectangle width="119" height="85" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="y7G9pSPF3vO1bCsNFnEQ-100" value="" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="y7G9pSPF3vO1bCsNFnEQ-91" vertex="1">
+        <mxCell id="y7G9pSPF3vO1bCsNFnEQ-100" value="&lt;div&gt;yellow [ˈjeləʊ] 黄色&lt;/div&gt;&lt;div&gt;year [jɪə(r)] 年&lt;/div&gt;" style="shape=partialRectangle;html=1;whiteSpace=wrap;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;" parent="y7G9pSPF3vO1bCsNFnEQ-91" vertex="1">
           <mxGeometry x="956" width="120" height="85" as="geometry">
             <mxRectangle width="120" height="85" as="alternateBounds" />
           </mxGeometry>
